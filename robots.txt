@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://prateekdayal.github.io/sitemap.xml 
