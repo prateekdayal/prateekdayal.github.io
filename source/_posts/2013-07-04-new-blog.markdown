@@ -1,0 +1,15 @@
+---
+layout: post
+title: "New Thoughts - New Blog"
+date: 2013-07-04 16:08
+comments: true
+categories: 
+---
+
+Over the last few years, I almost neglected my personal blog. I got busy with SupportBee and travel but the bigger reason was that I wasn't sure of what to write about on my blog. A lot of my writing involved SupportBee and technology and went on the SupportBee Blog and Devblog. Also short thoughts went on to Twitter. 
+
+The last time I wrote about a new experience was back in September 2010 when I wrote about the [cafe culture in Vietnam](http://www.prateekdayal.net/2010/09/19/why-we-nee-more-lifestyle-businesses/). Since then I have traveled a lot more, met a lot more people and had a chance to think about life and work. Lately, I feel the urge to write again and write about more things. Not just startups but many other experiences and perspectives. Since this is a very different theme from my old blog, I have decided to archive my old blog and start afresh. I welcome you to my new blog. I hope to post atleast once a month on things that interest me personally. Thank you for reading :)
+
+I am using [Octopress](http://octopress.org/) for this blog, which was very easy to install and setup on Github. Thank you Octopress!
+
+
