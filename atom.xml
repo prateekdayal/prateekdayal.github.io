@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://prateekdayal.github.io/atom.xml" rel="self"/>
-  <link href="http://prateekdayal.github.io/"/>
-  <updated>2013-07-04T11:50:20+07:00</updated>
-  <id>http://prateekdayal.github.io/</id>
+  <title><![CDATA[Prateek Dayal]]></title>
+  <link href="http://blog.prateekdayal.net/atom.xml" rel="self"/>
+  <link href="http://blog.prateekdayal.net/"/>
+  <updated>2013-07-06T11:24:31+07:00</updated>
+  <id>http://blog.prateekdayal.net/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Prateek Dayal]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Thoughts - New Blog]]></title>
+    <link href="http://blog.prateekdayal.net/new-blog"/>
+    <updated>2013-07-04T16:08:00+07:00</updated>
+    <id>http://blog.prateekdayal.net/new-blog</id>
+    <content type="html"><![CDATA[<p>Over the last few years, I almost neglected my personal blog. I got busy with SupportBee and travel but the bigger reason was that I wasn&rsquo;t sure of what to write about on my blog. A lot of my writing involved SupportBee and technology and went on the SupportBee Blog and Devblog. Also short thoughts went on to Twitter.</p>
+
+<p>The last time I wrote about a new experience was back in September 2010 when I wrote about the <a href="http://www.prateekdayal.net/2010/09/19/why-we-nee-more-lifestyle-businesses/">cafe culture in Vietnam</a>. Since then I have traveled a lot more, met a lot more people and had a chance to think about life and work. Lately, I feel the urge to write again and write about more things. Not just startups but many other experiences and perspectives. Since this is a very different theme from my old blog, I have decided to archive my old blog and start afresh. I welcome you to my new blog. I hope to post atleast once a month on things that interest me personally. Thank you for reading :)</p>
+
+<p>I am using <a href="http://octopress.org/">Octopress</a> for this blog, which was very easy to install and setup on Github. Thank you Octopress!</p>
+]]></content>
+  </entry>
   
 </feed>
