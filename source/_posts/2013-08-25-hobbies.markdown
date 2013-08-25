@@ -1,0 +1,13 @@
+---
+layout: post
+title: ""Hobbies""
+date: 2013-08-25 11:17
+comments: true
+categories: 
+---
+
+When I was a kid in school I loved extra curriculars. I was never really much into sports (except for a little bit of football) but I really had my heart in electronics. Our school gave us 2 hours a week for activities and I opted for electronics (since it was hard to get into computers back then anyway). I started by building small LED toys (we called them disco lights since they would switch from 3 reds to 3 greens and that was my perception of a disco back then!). Slowly I started tinkering more and built a small synthesizer (I think it was 22 keys) and a cassette player and eventually I built a 200 Watts inverter for my house (we used it for many years and then I built a bigger one which we used for many years as well). Ofcourse I was terrible at it initially. Unlike software, wrong experiments would end up in blown up transistors and overheated and short circtuited diodes. It was an exciting time for me though (and an expensive one for my parents). I couldn't wait to get back home from school and start soldering stuff and testing circuits. I  also saved up a lot of my pocket money to buy tools over time. Things like soldering irons and multi-meters and a set of resistors, transistors and other small components. Sometimes I would be out of a component and I would pull one out of another working circuit. I always found a way to keep building. I wasn't doing it to build a startup or sell circuits to my friends in school or anything. I was just doing it because it was exciting.
+
+I kept tinkering with electronics through college but once I graduated and started working I slowly lost touch. I picked up photography a little bit later but once I started working on Muziboo, everythign slowly faded into the background. I focused all my creative energies on building Muziboo and then later SupportBee. However now when I take a break from work and I try to engage myself with an activity, I find myself mostly dis-interested in it (or very superficially interested in it). Every now and then a book engages me but I find it very hard to be absorbed by any activity in particular. 
+
+When I look back, I can see what happened. For many years, I just kept working non-stop and in the process never paid attention to any other hobby. I found out the hard way that hobbies need to be nurtured or they fade away. It's easy to get obsessed with work and not only burn yourself out but also lose interest in things. For the last year or so, I have been taking more time off and trying different stuff and I am hoping that I'll find something engaging. For now, I'll keep looking.
