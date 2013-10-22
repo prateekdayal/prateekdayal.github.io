@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.prateekdayal.net/sitemap.xml 
+Sitemap: http://prateekdayal.github.io/sitemap.xml 
