@@ -4,7 +4,11 @@
   <title><![CDATA[Prateek Dayal]]></title>
   <link href="http://blog.prateekdayal.net/atom.xml" rel="self"/>
   <link href="http://blog.prateekdayal.net/"/>
+<<<<<<< HEAD
   <updated>2013-10-20T09:24:01+07:00</updated>
+=======
+  <updated>2013-08-25T14:42:58+07:00</updated>
+>>>>>>> master
   <id>http://blog.prateekdayal.net/</id>
   <author>
     <name><![CDATA[Prateek Dayal]]></name>
@@ -14,6 +18,7 @@
 
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[On Businesses and Scale]]></title>
     <link href="http://blog.prateekdayal.net/about-businesses-and-scale"/>
     <updated>2013-10-20T08:39:00+07:00</updated>
@@ -38,6 +43,8 @@
   </entry>
   
   <entry>
+=======
+>>>>>>> master
     <title type="html"><![CDATA[Hobbies]]></title>
     <link href="http://blog.prateekdayal.net/hobbies"/>
     <updated>2013-08-25T11:17:00+07:00</updated>
