@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Empathy"
+date: 2013-10-30 10:10
+comments: true
+categories: 
+---
+
+If I look back at the last six years of my startup life, I have made a lot of mistakes and judgemental errors. I have been right several times but I have been painfully wrong a lot of times as well. Thankfully over the years I accumulated a big pool of mistakes to try and see some patterns in there. Some of the defining ones are 
+
+* Delivering useful feedback in the most unhelpful way to people.
+* Not understanding customer problems deeply even when I wanted to.
+* Mistakes in defining the product's scope or direction. Not being able to resolve the conflict between what I want the product to do and what our customers want the product to do.
+* Mistakes in hiring and scaling the team
+
+If  a great product is the number one thing that will make you successful, the ability to understand and work with people is going to be the most important factor in building that product. Whether it's talking to customers or your co-founder or your team members or advisors, you are always working with other people. Understanding people if the first step in being able to work with them.
+
+Empathy is a great term to describe what I mean. According to Google, empathy is *the ability to understand and share the feelings of another*. As we grow up, we develop a worldview, our sense of right and wrong, our established ways of doing things and it gets harder and harder to see different perspectives. We are also never taught this skill in any formal way. We are taught writing so we can communicate our ideas better. We are taught maths and science so we can operate in the real world but we never take classes in figuring out people or figuring out what drives them. Atleast not in the Engineering world that I came from. I may go as far as saying that even understanding our own drivers is actually a pretty significant leap.
+
+Let me illustrate with a few personal examples. I once worked for a startup a year or so out of college and as much as I wanted to contribute to the company, I could never make a meaningful impact. I have also been in situations where I not been able to help a team member achieve their best. Having been on both sides of the table, I can see the pattern finally. The mistake is not spending enough time understanding individuals and figuring out what drives them and then helping them define a role that helps them achieve their potential and also contribute to the the business.  A few weeks ago, I read [Merissa Mayer's](http://www.businessinsider.com/marissa-mayer-biography-2013-8?op=1) biography and [Avinasha](https://avinasha.com) and I talked about how this line caught our attention. 
+
+"She’d already countered Apple’s offers by giving her people what they really wanted. Sometimes it was raises. Sometimes it was independence. Sometimes it was new titles. Sometimes it was actually more work, more responsibility. She knew what her people wanted. None of her reports ended up quitting to join Apple. 
+
+Read more: http://www.businessinsider.com/marissa-mayer-biography-2013-8#ixzz2jAPoNqGQ"
+
+Even if Merissa's personal driver was making an oustanding app and keeping Apple at bay, she did not expect everyone to be motivated only by that goal.
+
+I do want to mention that understanding people is not the same thing as understanding them enough to be able to get what you want out of them. It's not about pep talking them into working longer hours or throwing more money their way to keep them in the company. I am specifically talking about creating situations where people can give their best and find happiness in what they do. Sometimes it also means finding a new place to work because what they want cannot be achieved in your company. 
+
+The same goes for  customer interactions too. I would argue that the best UX designers are people who can empathize with their users. They can keep their personal biases in check when designing for their users. At SupportBee, we don't do many pre-sales calls but we do several customer calls a week to understand why people are facing a problem. I used to think of customer support as a way to help customers, win their loyalty and their social recomendation (and that holds) but not as a defining force in product development. Taking an interest in their business as a whole and not just their issues with SupportBee has helped me understand how to write better software for them. I lacked this perspective in Muziboo and I am not surprised that we failed to create the next big thing even after having a significant early traction (over half a million users a couple of years back).
+
+Apart from the experience of working on several products and working with some great people, traveling and living in new countries really helped me open up with people and question my assumptions about things. It also helped me enjoy these interactions and learn from them. Having grown up with a very engineering mindset, I lacked this perspective before and I know I have rubbed people in the wrong way in the past. If I interacted with you or someone you know and wasn't nice, I am sorry.
