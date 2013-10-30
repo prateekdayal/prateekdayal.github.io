@@ -1,0 +1,9 @@
+{% if site.twitter_user %}
+<section>
+  <h1>On Twitter:</h1>
+  <div>
+    <p><a href="https://twitter.com/prateekdayal"><img src="https://pbs.twimg.com/profile_images/378800000569614756/4ea3ef68c0e07659e29fd0a13de76afc_bigger.jpeg" alt="Ma Picture"/></a></p>
+    <a href="http://twitter.com/{{ site.twitter_user }}" data-size="large" class="twitter-follow-button" data-show-count="{{ site.twitter_show_follower_count }}">Follow @{{ site.twitter_user }}</a>
+  </div>
+</section>
+{% endif %}
