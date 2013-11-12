@@ -4,7 +4,7 @@
   <title><![CDATA[Prateek Dayal]]></title>
   <link href="http://blog.prateekdayal.net/atom.xml" rel="self"/>
   <link href="http://blog.prateekdayal.net/"/>
-  <updated>2013-10-30T14:52:10+07:00</updated>
+  <updated>2013-11-12T13:07:53+05:30</updated>
   <id>http://blog.prateekdayal.net/</id>
   <author>
     <name><![CDATA[Prateek Dayal]]></name>
@@ -14,9 +14,34 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Questions to ask (and avoid asking) fellow entrepreneurs]]></title>
+    <link href="http://blog.prateekdayal.net/questions-to-ask-and-avoid-asking-fellow-entrepreneurs"/>
+    <updated>2013-11-12T09:44:00+05:30</updated>
+    <id>http://blog.prateekdayal.net/questions-to-ask-and-avoid-asking-fellow-entrepreneurs</id>
+    <content type="html"><![CDATA[<p>Startup ecosystems are on the rise everywhere. There are more startups, more mentors, more events and more money floating around than ever before. Unfortunately, more is not always better. Having been around since the <a href="http://harisays.wordpress.com/2007/09/02/occ-meet-on-2-sep-07/">first OCC meetup</a> in Bangalore, I have seen the meetups (and the ecosystem) evolve over the years. Truth be told, I have lost interest in most startup events and it&rsquo;s not because I think there is nothing to learn out there. Discussions with entrepreneurs often turn into a discussion about things that don&rsquo;t matter as much &ndash; funding news of other companies and discussions about getting into the next accelerator or incubator. These are legitimate discussions but they are very unproductive use of face-time with people. A quick google search on funding or accelerators will lead to hundreds of blog posts, videos and dozens of books.</p>
+
+<p>I want to take this opportunity to clear my stand on funding. I think if you are operating from India and have any kind of real traction, you probably don&rsquo;t need to worry about money. You should really be focusing on revenues and acquiring customers. Operating costs in India are so low that your funding requirements are already much lower than other parts of the world. That&rsquo;s what we are doing in <a href="https://supportbee.com">SupportBee</a>. We tried raising a bit last year but very quickly decided that it was not worth the time. Not having money forced us to focus on revenues and customers and ignore everything else. I must accept that in the past I have gotten carried away and indulged in ongoing funding/investment landscape decisions with fellow entrepreneurs. However, I am going to bail out of those discussions pretty quickly from now on. I personally find my time better spent simply <a href="http://getsomeheadspace.com">meditating</a> instead.</p>
+
+<p>However here are some questions that I do enjoy asking entrepreneurs and wish more entrepreneurs asked me (simply because I have atleast some first hand insights here that might be useful to others)</p>
+
+<ul>
+<li>How old is your company and how long did it take you to launch. What slowed you down or helped you get the product out the door faster?</li>
+<li>What kind of traction do you have. What about revenues? How fast are they growing (or why not)?</li>
+<li>What things have made the biggest impact on your customer acquisition. What has helped lower your churn? What has driven up the engagement?</li>
+<li>What are your biggest acquisition channels. Do you focus more on organic or paid acquisition? Why one or the other or both?</li>
+<li>What hiring channels have worked for you? How do you work? Do you have sales people? If not, why?</li>
+<li>How do you prioritize feature requests? How do you deliver customer support? How do you tie the two together?</li>
+</ul>
+
+
+<p>Startups are so hard that if you meet someone with any traction, there are so many great things to learn from them. It doesn&rsquo;t even matter if you think they have cracked it bigtime or not. Asking the right questions is the key. If you think someone&rsquo;s idea doesn&rsquo;t make sense, ask them what they see in it. If you think someone is in an over crowded space, ask them how they are still selling in that space. Try to get real answers out of people. Andrew Warner did it with star entrepreneurs and you can do it with your local heroes (and heroes to be). Just be nice and curious and most people are happy to share their insights.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Empathy]]></title>
     <link href="http://blog.prateekdayal.net/empathy"/>
-    <updated>2013-10-30T10:10:00+07:00</updated>
+    <updated>2013-10-30T10:10:00+05:30</updated>
     <id>http://blog.prateekdayal.net/empathy</id>
     <content type="html"><![CDATA[<p>If I look back at the last six years of my startup life, I have made a lot of mistakes and judgemental errors. I have been right several times but I have been painfully wrong a lot of times as well. Thankfully over the years I accumulated a big pool of mistakes to try and see some patterns in there. Some of the defining ones are</p>
 
@@ -51,7 +76,7 @@
   <entry>
     <title type="html"><![CDATA[Essentials skills for becoming a programmer]]></title>
     <link href="http://blog.prateekdayal.net/essentials-skills-for-becoming-a-programmer"/>
-    <updated>2013-10-22T10:16:00+07:00</updated>
+    <updated>2013-10-22T10:16:00+05:30</updated>
     <id>http://blog.prateekdayal.net/essentials-skills-for-becoming-a-programmer</id>
     <content type="html"><![CDATA[<p>I have had the fortune of working with some great programmers, not only from the web development world but also from embedded software. I have also had the privilege of teaching some people to code or help them get better. One of the hardest things about teaching people to code is to teach them the non coding skills/mindset needed for a programming job. Based on my experience, here are some of the most important skills that you should learn/understand to be a better programmer</p>
 
@@ -92,7 +117,7 @@
   <entry>
     <title type="html"><![CDATA[On Businesses and Scale]]></title>
     <link href="http://blog.prateekdayal.net/about-businesses-and-scale"/>
-    <updated>2013-10-19T10:00:00+07:00</updated>
+    <updated>2013-10-19T10:00:00+05:30</updated>
     <id>http://blog.prateekdayal.net/about-businesses-and-scale</id>
     <content type="html"><![CDATA[<p>One of the great things about traveling is getting to see new perspectives and meeting different people. One of the thing I found very interesting in this trip is the dynamics of local businesses. Every small town I passed by when riding riding from Ho Chi Minh City to Mui Ne has atleast a few small shops. Small restaurants (more like a lady selling noodle soup), motor bike repair shops and little shops for buying basic household stuff (and coke ofcourse). Many of these shops offer multiple services. Small grocery shops might be selling gasoline (lack of a full blown petrol bunk turned to a business opportunity) or selling mobile top-ups or may be even vietnamese coffee. Some shops would also offer &lsquo;pay to park&rsquo; services to motor bike riders. In the tourist town of Mui Ne, where I am writing this blog post from, most shops offer multiple services to make their monthly income. The markup on selling gasoline will probably add two dollars a day to their income. People are glad if they can make the same money month after month and figure out a way to meet all their expeneses. These shops feed families and put kids through school. The families eat simple meals (the shop is mostly an extension of their house so you can always get a sneak peek into their lives) and overall seem pretty content.</p>
 
@@ -105,7 +130,7 @@
   <entry>
     <title type="html"><![CDATA[Driving Long Distance]]></title>
     <link href="http://blog.prateekdayal.net/driving-long-distance"/>
-    <updated>2013-10-16T11:27:00+07:00</updated>
+    <updated>2013-10-16T11:27:00+05:30</updated>
     <id>http://blog.prateekdayal.net/driving-long-distance</id>
     <content type="html"><![CDATA[<p>Growing up as a kid, my Dad had a car (an old Fiat). We also happened to live in the city of Agra, home to the Taj Mahal. Back in the days, families went to meet each other for holidays! Taj Mahal being on the list of everyone’s must visit monuments, our relatives kept flowing one after the other to our house in Agra over the years that we stayed there. Given this unique combination of living in a city full of historic sites and a car, my dad happened to drive a lot and I went along in every trip. That was one of my favorite parts of growing up as a kid. I remember driving through the same routes with different relatives. Some of these monuments were a bit farther out and it took an hour or may be two to get there. Once we got there, we would hang out and part of hanging out was eating sweets and snacks with my cousins (I am sure there were other relatives around but I mostly rememeber my cousins).</p>
 
@@ -116,7 +141,7 @@
   <entry>
     <title type="html"><![CDATA[Hobbies]]></title>
     <link href="http://blog.prateekdayal.net/hobbies"/>
-    <updated>2013-08-25T11:17:00+07:00</updated>
+    <updated>2013-08-25T11:17:00+05:30</updated>
     <id>http://blog.prateekdayal.net/hobbies</id>
     <content type="html"><![CDATA[<p>When I was a kid in school I loved extra curricular activities. I was never really much into sports (except for a little bit of football) but I really had my heart in electronics. Our school gave us 2 hours a week for activities and I opted for electronics (since it was hard to get into computers back then anyway). I started by building small LED toys (we called them disco lights since they would switch from 3 reds to 3 greens and that was my perception of a disco back then!). Slowly I started tinkering more and built a small synthesizer (I think it was 22 keys) and a cassette player and eventually I built a 200 Watts inverter for my house (we used it for many years and then I built a bigger one which we used for many years as well).</p>
 
@@ -131,7 +156,7 @@
   <entry>
     <title type="html"><![CDATA[Feeling Inspired]]></title>
     <link href="http://blog.prateekdayal.net/feeling-inspired"/>
-    <updated>2013-07-08T18:10:00+07:00</updated>
+    <updated>2013-07-08T18:10:00+05:30</updated>
     <id>http://blog.prateekdayal.net/feeling-inspired</id>
     <content type="html"><![CDATA[<p>In my younger days, I found inspiration only in a very limited number of things &ndash; seeing great technology in action, reading a great book and ofcourse  in <a href="http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1590597141">Founders at Work</a>. I had a hard time appreciating great work in industries or domains that I was not familiar with. What&rsquo;s more, I really felt no need to look deeper elsewhere. That changed in the last few years as I traveled more and talked to more people from different walks of life. Conversations with people outside technology or startup world helped me see new perspectives on things I had always interacted with before, but never paid much attention to. Things like well cooked meals, an attention to the lights in a restaurant or a bar or just better run airlines and more well designed real life systems. It was amazing to me how much difference attention to details in these things mattered and changed your experience as a consumer. Just like it&rsquo;s always amazing to watch great programmers code and talk about code, I was amazed watching a great hairdresser in action or an office manager at work.</p>
 
@@ -142,7 +167,7 @@
   <entry>
     <title type="html"><![CDATA[New Thoughts - New Blog]]></title>
     <link href="http://blog.prateekdayal.net/new-blog"/>
-    <updated>2013-07-04T16:08:00+07:00</updated>
+    <updated>2013-07-04T16:08:00+05:30</updated>
     <id>http://blog.prateekdayal.net/new-blog</id>
     <content type="html"><![CDATA[<p>Over the last few years, I almost neglected my personal blog. I got busy with SupportBee and travel but the bigger reason was that I wasn&rsquo;t sure of what to write about on my blog. A lot of my writing involved SupportBee and technology and went on the SupportBee Blog and Devblog. Also short thoughts went on to Twitter.</p>
 
