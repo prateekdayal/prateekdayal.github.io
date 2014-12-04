@@ -4,7 +4,7 @@
   <title><![CDATA[Prateek Dayal]]></title>
   <link href="http://blog.prateekdayal.net/atom.xml" rel="self"/>
   <link href="http://blog.prateekdayal.net/"/>
-  <updated>2014-07-02T10:40:26+07:00</updated>
+  <updated>2014-12-04T11:07:17-08:00</updated>
   <id>http://blog.prateekdayal.net/</id>
   <author>
     <name><![CDATA[Prateek Dayal]]></name>
@@ -14,9 +14,23 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Silence]]></title>
+    <link href="http://blog.prateekdayal.net/silence"/>
+    <updated>2014-12-04T10:26:00-08:00</updated>
+    <id>http://blog.prateekdayal.net/silence</id>
+    <content type="html"><![CDATA[<p>There are always some basic principles at work in any domain. In case of music, there are some basic chords, in case of programming, there are some basic constructs (<a href="http://en.wikipedia.org/wiki/Lisp_%28programming_language%29">LISP</a> is a wonderful example of this). The better you understand these basic constructs, the more progress you make. Often times, what you need is not a technique but revisiting fundamentals with more real world experience to understand them better and improve your craft. A lot of people enter programming to get a job done. They spend the first few years hacking things together and learning on the fly. In pursuit of excellence, some people start looking for these fundamentals and start finding texts like <a href="http://mitpress.mit.edu/sicp/">SICP</a>. I have come to realize that life is no different. You get into this world and start running with it and then after a while you get curious about what&rsquo;s going on. What are these emotions, what is stress, what is joy. What is this liberation that people talk about? That leads some people to the path of spirituality (or self exploration). Like programming, there are many texts and schools of thought but they all essentially point to the same ideas. As you peel layers you find that something vast yet simple at work. However unlike mathematics or physics, we still don&rsquo;t have a solid vocabulary for describing it (and probably we will never have one). So unlike programming, people can only give you pointers to it and it&rsquo;s for you to explore and find it. Meditation is a good tool for starting the exploration. In my journey so far, I have found that silence is a great way to describe the sub-stratum. In your happiest moments and in your saddest ones, you experience a silence. If you go far our on a trip, you experience silence. Before everything, there is a silence. Life is like a beautiful painting drawn on the canvas of silence and stillness. It&rsquo;s what stays with you in your loneliest moments and in your most public moments. Silence is divine but you need to break it to feel it sometimes. Paintings, poems and music break the silence in beautiful ways and hence have such a universal appeal.</p>
+
+<p>One of the most un-assuming teachers of our times, Papaji had only one teaching &ndash; &ldquo;Keep Quiet&rdquo; (I have embedded a video below). All the answers you need, all the strength and compassion that you want, you&rsquo;ll find when you rest in the silence past all the noise of your life. That&rsquo;s why we get re-energizing glimpses of the infinite when we are in a state of flow, whether we reach it through meditation, programming or endurance training &ndash; we find them in moments where we have shut off all noise of our existence. You can seek it by reciting the lord&rsquo;s name or sitting quietly looking at a river or sitting quietly programming. But it&rsquo;s there &ndash; you just need do discover it.</p>
+
+<iframe width="420" height="315" src="http://blog.prateekdayal.net//www.youtube.com/embed/lMC1RLma7tw" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Lesser Stuff]]></title>
     <link href="http://blog.prateekdayal.net/lesser"/>
-    <updated>2014-07-02T10:20:00+07:00</updated>
+    <updated>2014-07-02T10:20:00-07:00</updated>
     <id>http://blog.prateekdayal.net/lesser</id>
     <content type="html"><![CDATA[<p>In October 2013, I went on a two week motorbike trip in Vietnam. I rode from Ho Chi Minh City upto Mui Ne, stopping at several places on the way and rode back stopping at the same places again. To prepare for the trip, I bought a small backpack and fit a bunch of stuff into it. Apart from some clothes, I fit in my laptop, my ipad, earbuds, a water bottle and a few other things I absolutely needed. After being on the road for about a week, I noticed that I wasn&rsquo;t missing my other &lsquo;stuff&rsquo;. At the end of the second week, it was clear to me that I could live off this stuff for months. It was a liberating feeling. I had everything I needed to live a good life with me &ndash; my bike to take me to places, my laptop so I could work on stuff I cared about and enough essentials to keep me going as a person. It was my first experience with &lsquo;lesser&rsquo; stuff and I decided to stick with it. Since then I have been living off the same backpack. It weighs about 8 kg and it goes everywhere with me without being a burden.</p>
 
@@ -27,7 +41,7 @@
   <entry>
     <title type="html"><![CDATA[The Illusion of Predictability]]></title>
     <link href="http://blog.prateekdayal.net/the-illusion-of-predictability"/>
-    <updated>2014-04-11T08:09:00+07:00</updated>
+    <updated>2014-04-11T08:09:00-07:00</updated>
     <id>http://blog.prateekdayal.net/the-illusion-of-predictability</id>
     <content type="html"><![CDATA[<p>As humans, we like to be in control of our future and our destiny. As entrepreneurs we want and many a times we are expected to be able to predict the future. When people ask us about our future plans, they are rarely satisfied with execution plans. More often than not, they want to know how big we think our team will be or how much bigger the business will be in 12 to 18 months. That&rsquo;s what gets them excited about the company. We see this all around us and we are tempted to believe that we can actually predict the future. When our predictions don&rsquo;t come true (or the future doesn&rsquo;t align with the image we had of it in our mind), we think we just need to get better at being able to predict. Or worse, we blame the current for being against us.</p>
 
@@ -47,7 +61,7 @@
   <entry>
     <title type="html"><![CDATA[Questions to ask (and avoid asking) fellow entrepreneurs]]></title>
     <link href="http://blog.prateekdayal.net/questions-to-ask-and-avoid-asking-fellow-entrepreneurs"/>
-    <updated>2013-11-12T09:44:00+07:00</updated>
+    <updated>2013-11-12T09:44:00-08:00</updated>
     <id>http://blog.prateekdayal.net/questions-to-ask-and-avoid-asking-fellow-entrepreneurs</id>
     <content type="html"><![CDATA[<p>Startup ecosystems are on the rise everywhere. There are more startups, more mentors, more events and more money floating around than ever before. Unfortunately, more is not always better. Having been around since the <a href="http://harisays.wordpress.com/2007/09/02/occ-meet-on-2-sep-07/">first OCC meetup</a> in Bangalore, I have seen the meetups (and the ecosystem) evolve over the years. Truth be told, I have lost interest in most startup events and it&rsquo;s not because I think there is nothing to learn out there. Discussions with entrepreneurs often turn into a discussion about things that don&rsquo;t matter as much &ndash; funding news of other companies and discussions about getting into the next accelerator or incubator. These are legitimate discussions but they are very unproductive use of face-time with people. A quick google search on funding or accelerators will lead to hundreds of blog posts, videos and dozens of books.</p>
 
@@ -72,7 +86,7 @@
   <entry>
     <title type="html"><![CDATA[Empathy]]></title>
     <link href="http://blog.prateekdayal.net/empathy"/>
-    <updated>2013-10-30T10:10:00+07:00</updated>
+    <updated>2013-10-30T10:10:00-07:00</updated>
     <id>http://blog.prateekdayal.net/empathy</id>
     <content type="html"><![CDATA[<p>If I look back at the last six years of my startup life, I have made a lot of mistakes and judgemental errors. I have been right several times but I have been painfully wrong a lot of times as well. Thankfully over the years I accumulated a big pool of mistakes to try and see some patterns in there. Some of the defining ones are</p>
 
@@ -107,7 +121,7 @@
   <entry>
     <title type="html"><![CDATA[Essentials skills for becoming a programmer]]></title>
     <link href="http://blog.prateekdayal.net/essentials-skills-for-becoming-a-programmer"/>
-    <updated>2013-10-22T10:16:00+07:00</updated>
+    <updated>2013-10-22T10:16:00-07:00</updated>
     <id>http://blog.prateekdayal.net/essentials-skills-for-becoming-a-programmer</id>
     <content type="html"><![CDATA[<p>I have had the fortune of working with some great programmers, not only from the web development world but also from embedded software. I have also had the privilege of teaching some people to code or help them get better. One of the hardest things about teaching people to code is to teach them the non coding skills/mindset needed for a programming job. Based on my experience, here are some of the most important skills that you should learn/understand to be a better programmer</p>
 
@@ -148,7 +162,7 @@
   <entry>
     <title type="html"><![CDATA[On Businesses and Scale]]></title>
     <link href="http://blog.prateekdayal.net/about-businesses-and-scale"/>
-    <updated>2013-10-19T10:00:00+07:00</updated>
+    <updated>2013-10-19T10:00:00-07:00</updated>
     <id>http://blog.prateekdayal.net/about-businesses-and-scale</id>
     <content type="html"><![CDATA[<p>One of the great things about traveling is getting to see new perspectives and meeting different people. One of the thing I found very interesting in this trip is the dynamics of local businesses. Every small town I passed by when riding riding from Ho Chi Minh City to Mui Ne has atleast a few small shops. Small restaurants (more like a lady selling noodle soup), motor bike repair shops and little shops for buying basic household stuff (and coke ofcourse). Many of these shops offer multiple services. Small grocery shops might be selling gasoline (lack of a full blown petrol bunk turned to a business opportunity) or selling mobile top-ups or may be even vietnamese coffee. Some shops would also offer &lsquo;pay to park&rsquo; services to motor bike riders. In the tourist town of Mui Ne, where I am writing this blog post from, most shops offer multiple services to make their monthly income. The markup on selling gasoline will probably add two dollars a day to their income. People are glad if they can make the same money month after month and figure out a way to meet all their expeneses. These shops feed families and put kids through school. The families eat simple meals (the shop is mostly an extension of their house so you can always get a sneak peek into their lives) and overall seem pretty content.</p>
 
@@ -161,7 +175,7 @@
   <entry>
     <title type="html"><![CDATA[Driving Long Distance]]></title>
     <link href="http://blog.prateekdayal.net/driving-long-distance"/>
-    <updated>2013-10-16T11:27:00+07:00</updated>
+    <updated>2013-10-16T11:27:00-07:00</updated>
     <id>http://blog.prateekdayal.net/driving-long-distance</id>
     <content type="html"><![CDATA[<p>Growing up as a kid, my Dad had a car (an old Fiat). We also happened to live in the city of Agra, home to the Taj Mahal. Back in the days, families went to meet each other for holidays! Taj Mahal being on the list of everyone’s must visit monuments, our relatives kept flowing one after the other to our house in Agra over the years that we stayed there. Given this unique combination of living in a city full of historic sites and a car, my dad happened to drive a lot and I went along in every trip. That was one of my favorite parts of growing up as a kid. I remember driving through the same routes with different relatives. Some of these monuments were a bit farther out and it took an hour or may be two to get there. Once we got there, we would hang out and part of hanging out was eating sweets and snacks with my cousins (I am sure there were other relatives around but I mostly rememeber my cousins).</p>
 
@@ -172,7 +186,7 @@
   <entry>
     <title type="html"><![CDATA[Hobbies]]></title>
     <link href="http://blog.prateekdayal.net/hobbies"/>
-    <updated>2013-08-25T11:17:00+07:00</updated>
+    <updated>2013-08-25T11:17:00-07:00</updated>
     <id>http://blog.prateekdayal.net/hobbies</id>
     <content type="html"><![CDATA[<p>When I was a kid in school I loved extra curricular activities. I was never really much into sports (except for a little bit of football) but I really had my heart in electronics. Our school gave us 2 hours a week for activities and I opted for electronics (since it was hard to get into computers back then anyway). I started by building small LED toys (we called them disco lights since they would switch from 3 reds to 3 greens and that was my perception of a disco back then!). Slowly I started tinkering more and built a small synthesizer (I think it was 22 keys) and a cassette player and eventually I built a 200 Watts inverter for my house (we used it for many years and then I built a bigger one which we used for many years as well).</p>
 
@@ -187,7 +201,7 @@
   <entry>
     <title type="html"><![CDATA[Feeling Inspired]]></title>
     <link href="http://blog.prateekdayal.net/feeling-inspired"/>
-    <updated>2013-07-08T18:10:00+07:00</updated>
+    <updated>2013-07-08T18:10:00-07:00</updated>
     <id>http://blog.prateekdayal.net/feeling-inspired</id>
     <content type="html"><![CDATA[<p>In my younger days, I found inspiration only in a very limited number of things &ndash; seeing great technology in action, reading a great book and ofcourse  in <a href="http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1590597141">Founders at Work</a>. I had a hard time appreciating great work in industries or domains that I was not familiar with. What&rsquo;s more, I really felt no need to look deeper elsewhere. That changed in the last few years as I traveled more and talked to more people from different walks of life. Conversations with people outside technology or startup world helped me see new perspectives on things I had always interacted with before, but never paid much attention to. Things like well cooked meals, an attention to the lights in a restaurant or a bar or just better run airlines and more well designed real life systems. It was amazing to me how much difference attention to details in these things mattered and changed your experience as a consumer. Just like it&rsquo;s always amazing to watch great programmers code and talk about code, I was amazed watching a great hairdresser in action or an office manager at work.</p>
 
@@ -198,7 +212,7 @@
   <entry>
     <title type="html"><![CDATA[New Thoughts - New Blog]]></title>
     <link href="http://blog.prateekdayal.net/new-blog"/>
-    <updated>2013-07-04T16:08:00+07:00</updated>
+    <updated>2013-07-04T16:08:00-07:00</updated>
     <id>http://blog.prateekdayal.net/new-blog</id>
     <content type="html"><![CDATA[<p>Over the last few years, I almost neglected my personal blog. I got busy with SupportBee and travel but the bigger reason was that I wasn&rsquo;t sure of what to write about on my blog. A lot of my writing involved SupportBee and technology and went on the SupportBee Blog and Devblog. Also short thoughts went on to Twitter.</p>
 
